@@ -1,0 +1,1 @@
+input_isolator_robocon_2025_aml\startup_stm32f103xb.o: startup_stm32f103xb.s

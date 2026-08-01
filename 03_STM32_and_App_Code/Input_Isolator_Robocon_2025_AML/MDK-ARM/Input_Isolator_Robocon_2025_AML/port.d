@@ -1,0 +1,12 @@
+input_isolator_robocon_2025_aml\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+input_isolator_robocon_2025_aml\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+input_isolator_robocon_2025_aml\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+input_isolator_robocon_2025_aml\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+input_isolator_robocon_2025_aml\port.o: ../Core/Inc/FreeRTOSConfig.h
+input_isolator_robocon_2025_aml\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+input_isolator_robocon_2025_aml\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+input_isolator_robocon_2025_aml\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+input_isolator_robocon_2025_aml\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+input_isolator_robocon_2025_aml\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+input_isolator_robocon_2025_aml\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+input_isolator_robocon_2025_aml\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
